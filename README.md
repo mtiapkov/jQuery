@@ -1,12 +1,11 @@
-# Calculator
-
+# jQuery
 #### JavaScript, HTML, CSS files, 06/01/2020
 
 #### By Evgeniya Chernaya, Mark Tiapkov
 
 ## Description
 
-Calculator application
+jQuery Practice
 
 ## Setup/Installation Requirements
 
